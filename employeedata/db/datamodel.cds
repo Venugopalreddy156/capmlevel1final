@@ -8,6 +8,7 @@ entity employeeregister{
     @title : 'Phone Number'
     Phone_Number : Integer;
     Address : String(50);
+    Company Code : String(20)
 }
 
 // view CH_Employee as select from employeeregister as dbemp{
